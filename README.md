@@ -5,7 +5,6 @@
 
 In this project, I act as a data analyst for Steam. My goal here was to analyze their existing Steam game data to identify some key factors that contribute to their player reception and commercial success. My insights are intended to provide trends that could be used for Steam's marketing and their content acquisition team to help decide which types of games to promote on their platform.
 
---
 
 ## Data Sources
 
