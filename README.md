@@ -57,4 +57,4 @@ My workflow for this project followed these key steps:
 
 Below is a screenshot of the final dashboard. **You can interact with the live version here: [https://public.tableau.com/app/profile/fernando.moran1897/viz/SteamInsi/d?publish=yes]**
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](visualizations/dashboard_screenshot.png)
