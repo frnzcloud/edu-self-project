@@ -10,7 +10,7 @@ In this project, I act as a data analyst for Steam. My goal here was to analyze 
 
 The dataset used for this analysis is a raw csv file containing thousands of games from the Steam platform. It was sourced from Kaggle - [**https://www.kaggle.com/datasets/nikdavis/steam-store-raw**]
 
---
+
 
 ## Tools & Methodology
 
@@ -26,7 +26,7 @@ My workflow for this project followed these key steps:
      * Connected the PostgreSQL database to **Tableau**.
      * Developed an interactive dashboard to visualize trends in player reviews, genre popularity, and popular developers.
 
---
+
 
 ## Key Findings & Insights
 
@@ -40,7 +40,7 @@ My workflow for this project followed these key steps:
    * Valve, as a developer, significantly outperformed all others, leading in both estimated owners and positive reviews, with free titles as well.
    * This dominance suggests that Valve's development and strategies could serve as powerful models for success that other developers could learn from. 
 
---
+
 
 
 ## Recommendations
@@ -54,7 +54,6 @@ My workflow for this project followed these key steps:
    * Continue to heavily feature and promote top-tier Action and Adventure games. To stand out in a crowded market, Steam could prioritize and highlight games that bring unique *sub-genres* or innovative mechanics to these popular categories. 
 
 
---
 
 ## Interactive Dashboard 
 
