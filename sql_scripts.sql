@@ -1,3 +1,11 @@
+-- Drop views and table if they exist 
+DROP VIEW IF EXISTS top_games_by_reviews;
+DROP VIEW IF EXISTS genre_popularity;
+DROP VIEW IF EXISTS games_by_developer;
+DROP VIEW IF EXISTS free_vs_paid_games;
+DROP TABLE IF EXISTS public."public.v3";
+
+
 CREATE TABLE public."public.v3" (
 	appid int4 NULL,
 	required_age float4 NULL,
