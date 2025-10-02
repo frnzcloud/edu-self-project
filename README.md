@@ -17,6 +17,7 @@ The dataset used for this analysis is a raw csv file containing thousands of gam
 My workflow for this project followed these key steps:
 
 1.  **Data Cleaning & Manipulation:**
+
     * Utilized **Python** within **Jupyter Notebook** to load the raw data.
     * Performed data cleaning by handling missing values, correcting data types, and creating new columns (review ratios, parsing genres).
 2.  **Database Storage & Querying:**
