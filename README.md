@@ -16,15 +16,15 @@ The dataset used for this analysis is a raw csv file containing thousands of gam
 
 My workflow for this project followed these key steps:
 
-1.   **Data Cleaning & Manipulation:**
-     * Utilized **Python** within **Jupyter Notebook** to load the raw data.
-     * Performed data cleaning by handling missing values, correcting data types, and creating new columns (review ratios, parsing genres).
-2.   **Database Storage & Querying:**
-     * Exported the clean data and structured it within a **PostgreSQL** database.
-     * Wrote **SQL** queries inside the **DBeaver** database tool to create tables and analytical views, preparing the data for visualization. 
-3.   **Data Visualization & Dashboarding:**
-     * Connected the PostgreSQL database to **Tableau**.
-     * Developed an interactive dashboard to visualize trends in player reviews, genre popularity, and popular developers.
+1.  **Data Cleaning & Manipulation:**
+    * Utilized **Python** within **Jupyter Notebook** to load the raw data.
+    * Performed data cleaning by handling missing values, correcting data types, and creating new columns (review ratios, parsing genres).
+2.  **Database Storage & Querying:**
+    * Exported the clean data and structured it within a **PostgreSQL** database.
+    * Wrote **SQL** queries inside the **DBeaver** database tool to create tables and analytical views, preparing the data for visualization. 
+3.  **Data Visualization & Dashboarding:**
+    * Connected the PostgreSQL database to **Tableau**.
+    * Developed an interactive dashboard to visualize trends in player reviews, genre popularity, and popular developers.
 
 
 
